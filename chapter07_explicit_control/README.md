@@ -129,4 +129,4 @@ powershell -ExecutionPolicy Bypass -File tools/export_pdf.ps1 -Pptx chapter07_ex
 ```
 
 노트북의 모델을 바꾸면 그래프·설명·수치를 PPT에도 반영한 뒤 PDF를 갱신하세요. 노트북 실행만으로 PPT·PDF가 자동 갱신되지는 않습니다. 이번 판은 PDF 전체 53쪽을 이미지로 확인하고 수식이 많은 페이지를 확대 점검했습니다.
-기존 개별 `.sh`, Python 예제, LaTeX 슬라이드와 노트는 통합 자료로 대체했습니다. 
+기존 개별 `.sh`, Python 예제, LaTeX 슬라이드와 노트는 통합 자료로 대체했습니다.
