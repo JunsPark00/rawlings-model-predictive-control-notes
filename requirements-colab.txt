@@ -1,0 +1,7 @@
+# Supported major-version ranges. Exact tested versions are in the chapter README.
+numpy>=2,<3
+scipy>=1.14,<2
+matplotlib>=3.9,<4
+cvxpy>=1.6,<2
+osqp>=1,<2
+casadi>=3.7,<4

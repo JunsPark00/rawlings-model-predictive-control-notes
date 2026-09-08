@@ -1,0 +1,28 @@
+.venv/
+*.egg-info/
+__pycache__/
+*.pyc
+.DS_Store
+*.png
+*.gif
+
+# Renewed chapter figures are shared by notebooks and PowerPoint.
+!chapter*/slides/*.png
+
+# LaTeX build artifacts
+*.aux
+*.log
+*.out
+*.toc
+*.nav
+*.snm
+*.vrb
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.xdv
+*.bbl
+*.blg
+
+# Original textbook PDFs are linked from the official author website.
+MPC-book*.pdf
